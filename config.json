@@ -4,6 +4,6 @@
     "redirect_uri":"https://discord-verification1.herokuapp.com/verify",
     "google_secret":"6LdqcBsbAAAAAL7DVZuhgpO-Mnk5KgS2WHjoSBGN",
     "bot_token":"ODUxNTM3NjAxMTI2NTk2NjY5.YL5uMA.uhVXSMmvIEbdcjkQOkioovOwlXo",
-    "guild_id":"",
-    "verifiedRole_id":""
+    "guild_id":"843971118943174696",
+    "verifiedRole_id":"849368813065207819"
 }
